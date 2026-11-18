@@ -1,0 +1,9 @@
+title: Fondamenti di Sistemi Informativi
+description: Sito del libro «Fondamenti di Sistemi Informativi per gli studenti dei corsi di laurea in Ingegneria Gestionale» (1ª edizione, 2027)
+lang: it
+theme: minima
+author: Luca Menini, Niccolò Iandelli, Diletta Tosetto
+# Le pagine sono in Markdown: GitHub Pages le converte in HTML con Jekyll.
+exclude:
+  - README.md
+  - LICENSE
